@@ -1,6 +1,6 @@
 var firends = [20, 39, 34, 90, 43, 77, 43, 75, 37];
 firends[2] = 41; //added new element in array position if i want to change a array value..
-push, pop, shift, unshift;
+// push, pop, shift, unshift;
 firends.push(100); //insert new element in array last position
 console.log(firends);
 firends.pop(); //remove element in array last position
